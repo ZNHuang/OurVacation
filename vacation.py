@@ -76,7 +76,7 @@ class YourWorkDayApply(Hand):
         except:
             input("make sure we are on the next page and enter")
 
-        time.sleep(2)
+        time.sleep(3)
         try:
             self.disclosure_questions()
         except Exception as e:
