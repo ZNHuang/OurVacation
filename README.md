@@ -3,7 +3,7 @@
 🌴🍹🍉⛱️🥥✈️⛱️🌞🏝️🌞🤩🥳
 ## OurVacation is a python tool kit help you to automate tedious application process.
 
-Stress associated with job searching and application process is an unnecessary burden for Homo sapiens.[reference ?] This software tool, YourHolidy, will try to help you fill some information according to what is given to it. The goal is to reduced the fatigue, by reducing the amount of ctrl+c and ctrl+v applicants press, aslo mouse clicks. While not reducing the time used during the application process, preliminary experiments have shown that the fatigue reduced by adopting the tool is significant, after getting used to the interface. 
+Stress associated with job searching and application process is an unnecessary burden for Homo sapiens.[reference ?] This software tool, OurVacation, will try to help you fill some information according to what is given to it. The goal is to reduced the fatigue, by reducing the amount of ctrl+c and ctrl+v applicants press, aslo mouse clicks. While not reducing the time used during the application process, preliminary experiments have shown that the fatigue reduced by adopting the tool is significant, after getting used to the interface. 
 
 It is *mostly* a useful tool now, but it needs more work to make it a *good* tool. Looking forwared to collaboration, any collaboration!
 
