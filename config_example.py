@@ -1,0 +1,5 @@
+E = 'email@email.com'
+P = 'password'
+F = '1234567'
+FNAME = 'John'
+LNAME = 'Doe'
