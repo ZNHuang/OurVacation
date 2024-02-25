@@ -1,0 +1,5 @@
+*pdf
+*.pyc
+config.py
+education.csv
+work_experience.csv
