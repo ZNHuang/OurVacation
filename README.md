@@ -18,6 +18,6 @@ Too many dependencies could lead to to difficulty for future development. So I t
 |webdriver-manager| **4.0.1**|
 
 ## Before using it, be sure to:
-1. Write 'config.py', 'education.csv' and 'word_experience.csv' according to the format in the corresponding '_example' files.
+1. Write 'config.py', 'education.csv' and 'work_experience.csv' according to the format in the corresponding '_example' files.
 
 Note the csv files are actually not comma(,) seperated. We use semicolon(;) as delimiter here so we can use comma in the text.
