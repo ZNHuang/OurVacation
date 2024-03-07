@@ -24,4 +24,4 @@ Note the csv files are actually not comma(,) seperated. We use semicolon(;) as d
 
 ## Quirks
 
-1. You might need to scrow down as this tool is filling out the form. This happens with work experience page. If you don't, when trying to fill in the things not visible in the browser unless scrowing down, you might get an error "not clickable at point...".
+1. You might need to screw down as this tool is filling out the form. This happens with work experience page. If you don't, when trying to fill in the things not visible in the browser unless scrowing down, you might get an error "not clickable at point...".
