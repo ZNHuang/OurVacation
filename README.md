@@ -21,3 +21,7 @@ Too many dependencies could lead to to difficulty for future development. So I t
 1. Write 'config.py', 'education.csv' and 'work_experience.csv' according to the format in the corresponding '_example' files.
 
 Note the csv files are actually not comma(,) seperated. We use semicolon(;) as delimiter here so we can use comma in the text.
+
+## Quirks
+
+1. You might need to scrow down as this tool is filling out the form. This happens with work experience page. If you don't, when trying to fill in the things not visible in the browser unless scrowing down, you might get an error "not clickable at point...".
