@@ -60,6 +60,12 @@ class YourWorkDayApply(Hand):
         time.sleep(2)
         try:
             self.add_work_experience()
+        except ElementClickInterceptedException:
+            input("You might need to scrow down as it auto fill work experience, delete all work experience and then type enter to retry!")
+            try: 
+                self.add_work_experience()
+            except Exception as e:
+                print(e)
         except Exception as e:
             print(e)
 
